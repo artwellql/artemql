@@ -18,4 +18,4 @@ Data Scientist with hands-on experience in Exploratory Data Analysis, classical 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ### 📫 How to reach me:  
-[LinkedIn]([посилання_на_linkedin](https://www.linkedin.com/in/artem-prykhidko/)) | [Telegram](https://t.me/artem_ql) | [Email](mailto:artem190709@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/artem-prykhidko/)) | [Telegram](https://t.me/artem_ql) | [Email](mailto:artem190709@gmail.com)
